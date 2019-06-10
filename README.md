@@ -2,6 +2,10 @@
 
 This is a dark theme with purple accents for GitHub Pages with the [mkdocs-material](https://github.com/squidfunk/mkdocs-material#material-for-mkdocs) theme. It also features light pastels for [syntax highlighting](https://squidfunk.github.io/mkdocs-material/extensions/codehilite/).
 
+![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/blakebuthod/dark-purple-mkdocs-material/master/images/mkdocs-material-homepage.png))
+
+![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/blakebuthod/dark-purple-mkdocs-material/master/images/codehilite-syntax-highlighting.png))
+
 License: [BY NC SA - Creative Commons Attribution](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Usage
