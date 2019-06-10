@@ -84,7 +84,7 @@ header {
 .codehilite .il, .codehilite .m, .codehilite .mf, .codehilite .mh, .codehilite .mi, .codehilite .mo, .md-typeset .highlight .il, .md-typeset .highlight .m, .md-typeset .highlight .mf, .md-typeset .highlight .mh, .md-typeset .highlight .mi, .md-typeset .highlight .mo,
 .codehilite .na, .codehilite .nb, .md-typeset .highlight .na, .md-typeset .highlight .nb
 {
-    color: #d0786f;
+    color: #df9d97;
 }
 .codehilite .nx, .md-typeset .highlight .nx {
     color: #ecb7c9;
@@ -96,5 +96,32 @@ header {
     background-color: rgba(72, 76, 119, .5);
 }
 a > code{
-    color: #555ba4 !important;
+    color: #555ba4;
+}
+.codehilite .kr, .codehilite .kt, .md-typeset .highlight .kr, .md-typeset .highlight .kt {
+    color: #a9c2f0;
+}
+.codehilite .ne, .codehilite .nf, .md-typeset .highlight .ne, .md-typeset .highlight .nf {
+    color: #f4d3e0;
+}
+.codehilite .nc, .md-typeset .highlight .nc {
+    color: #f09bbc;
+}
+.codehilite .nn, .md-typeset .highlight .nn {
+    color: #f775a1;
+}
+.codehilite .bp, .md-typeset .highlight .bp {
+    color: #83abf4;
+}
+.codehilite .no, .md-typeset .highlight .no {
+    color: #94b6f4;
+}
+.codehilite .s1, .codehilite .ss, .md-typeset .highlight .s1, .md-typeset .highlight .ss {
+    color: #58e19d;
+}
+.codehilite .gd, .md-typeset .highlight .gd {
+    background-color: #db8a8a;
+}
+.codehilite .gi, .md-typeset .highlight .gi {
+    background-color: #a1c4a1;
 }
