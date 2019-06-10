@@ -1,0 +1,100 @@
+html,
+body,
+main
+.md-container,
+.md-main,
+blockquote
+{
+    background-color: #222 !important;
+    color: #fdfdfd !important;
+    
+}
+tbody {
+    background-color: #333 !important; 
+}
+.md-typeset table:not([class]) td {
+    border-top: .05rem solid #444;
+}
+.md-typeset blockquote {
+    border-left: .2rem solid #898989;
+}
+.md-typeset table:not([class]) tr:hover {
+    background-color: #444;
+    box-shadow: inset 0 0.05rem 0 #888;
+}
+@media only screen and (min-width: 76.25em) {
+    [data-md-color-primary=indigo] .md-tabs {
+        background-color: #555ba4 !important;
+    }
+}
+header {
+    background-color: #40447b !important;
+}
+.md-content a {
+    color: #7f87f2 !important;
+}
+.md-content a:hover {
+    color: #555ba4 !important;
+}
+.md-nav__link--active {
+    color: #7f87f2 !important;
+}
+[data-md-color-accent=green] .md-nav__link:focus, [data-md-color-accent=green] .md-nav__link:hover, [data-md-color-accent=green] .md-typeset .footnote li:hover .footnote-backref:hover, [data-md-color-accent=green] .md-typeset .footnote li:target .footnote-backref, [data-md-color-accent=green] .md-typeset .md-clipboard:active:before, [data-md-color-accent=green] .md-typeset .md-clipboard:hover:before, [data-md-color-accent=green] .md-typeset [id] .headerlink:focus, [data-md-color-accent=green] .md-typeset [id]:hover .headerlink:hover, [data-md-color-accent=green] .md-typeset [id]:target .headerlink,
+.md-typeset h1
+{
+    color: #999;
+}
+.md-typeset .codehilitetable .linenos, .md-typeset .highlighttable .linenos {
+    background-color: #313131;
+    color: #fff;
+}
+.codehilite pre {
+    background-color: #373737 !important;
+    color: white !important;
+}
+.md-typeset code {
+    background-color: #373737 !important;
+    color: #eee;
+}
+.md-typeset code {
+    box-shadow: 0.29412em 0 0 #373737, -0.29412em 0 0 #373737 !important;
+}
+.md-nav__link[data-md-state=blur] {
+    color: #999 !important;
+}
+@media only screen and (min-width: 60em) {
+    [data-md-toggle=search]:checked~.md-header .md-search__input {
+        background-color: #222;
+        color: white !important;
+    }
+}
+.codehilite .nt, .md-typeset .highlight .nt,
+.codehilite .k, .md-typeset .highlight .k
+{
+    color: #d9d790;
+}
+.codehilite .nv, .codehilite .vc, .codehilite .vg, .codehilite .vi, .md-typeset .highlight .nv, .md-typeset .highlight .vc, .md-typeset .highlight .vg, .md-typeset .highlight .vi {
+    color: #f9bb76;
+}
+.codehilite .s, .codehilite .sb, .codehilite .sc, .md-typeset .highlight .s, .md-typeset .highlight .sb, .md-typeset .highlight .sc,
+.codehilite .s2, .md-typeset .highlight .s2
+{
+    color: #99d9ad;
+}
+.codehilite .il, .codehilite .m, .codehilite .mf, .codehilite .mh, .codehilite .mi, .codehilite .mo, .md-typeset .highlight .il, .md-typeset .highlight .m, .md-typeset .highlight .mf, .md-typeset .highlight .mh, .md-typeset .highlight .mi, .md-typeset .highlight .mo,
+.codehilite .na, .codehilite .nb, .md-typeset .highlight .na, .md-typeset .highlight .nb
+{
+    color: #d0786f;
+}
+.codehilite .nx, .md-typeset .highlight .nx {
+    color: #ecb7c9;
+}
+.codehilite .kd, .codehilite .kn, .md-typeset .highlight .kd, .md-typeset .highlight .kn {
+    color: #b3c6e8;
+}
+.codehilite .hll, .md-typeset .highlight .hll {
+    background-color: rgba(72, 76, 119, .5);
+}
+a > code{
+    color: #555ba4 !important;
+}
