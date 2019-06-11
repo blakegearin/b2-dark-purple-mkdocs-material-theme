@@ -1,4 +1,4 @@
-# Dark Purple Theme for "Material for MkDocs"
+# B2 Dark Purple Theme for "Material for MkDocs"
 
 This is a dark theme with purple accents for GitHub Pages with the [mkdocs-material](https://github.com/squidfunk/mkdocs-material#material-for-mkdocs) theme. It also features light pastels for [syntax highlighting](https://squidfunk.github.io/mkdocs-material/extensions/codehilite/).
 
